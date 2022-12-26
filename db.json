@@ -8,9 +8,9 @@
 		"NativeAdmob": "ca-app-pub-9988521094839767/7246872309",
 
 
-		"BannerApploving": "",
-		"IntersApploving": "",
-		"NativeApploving": ""
+		"BannerApploving": "YOUR_AD_UNIT_ID",
+		"IntersApploving": "YOUR_AD_UNIT_ID",
+		"NativeApploving": "YOUR_AD_UNIT_ID"
 		}
 	}
 }
