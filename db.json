@@ -2,15 +2,15 @@
 	"open": {
 		"new":{
 			
-		"ads": "Max",
+		"ads": "admob",
 		"BannerAdmob": "ca-app-pub-9988521094839767/1064607331",
 		"IntersAdmob": "ca-app-pub-9988521094839767/4812280653",
 		"NativeAdmob": "ca-app-pub-9988521094839767/7246872309",
 
 
-		"BannerApploving": "36e39ac0f94447a0",
-		"IntersApploving": "9e5ebcb5b915c428",
-		"NativeApploving": "bdb38db2f90d1300"
+		"BannerApploving": "",
+		"IntersApploving": "",
+		"NativeApploving": ""
 		}
 	}
 }
