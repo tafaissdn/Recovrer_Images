@@ -1,6 +1,5 @@
 {
 	"open": {
-		"new":{
 			
 		"ads": "Max",
 		"BannerAdmob": "ca-app-pub-9988521094839767/1064607331",
@@ -11,6 +10,6 @@
 		"BannerApploving": "YOUR_AD_UNIT_ID",
 		"IntersApploving": "YOUR_AD_UNIT_ID",
 		"NativeApploving": "YOUR_AD_UNIT_ID"
-		}
+		
 	}
 }
