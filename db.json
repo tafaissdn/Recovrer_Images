@@ -1,10 +1,10 @@
 {
 	"open": {
 			
-		"ads": "admob",
-		"BannerAdmob": "ca-app-pub-9988521094839767/1064607331",
-		"IntersAdmob": "ca-app-pub-9988521094839767/4812280653",
-		"NativeAdmob": "ca-app-pub-9988521094839767/7246872309",
+		"ads": "max",
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+		"IntersAdmob": "ca-app-pub-3940256099942544/1033173712",
+		"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 
 		"BannerApploving": "YOUR_AD_UNIT_ID",
